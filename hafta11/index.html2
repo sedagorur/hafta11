@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+       <meta charset="utf-8"/>
+       <title> HTML/CSS3 Class-Pseduo
+ Sınıflar 2 Ders-24    </title>
+           <link rel="stylesheet"
+href="main.css" />
+</head>
+<body>
+<div> HTML/CSS dersleri Class Pseduo Sınıflar 2 Elementlere ile devam ediyor....</div>
+<div>
+              <p> Paragraf1</p>
+              <p> Paragraf2</p>
+              <p> Paragraf3</p>
+ </div>
+ </body>
+ </html>                        
